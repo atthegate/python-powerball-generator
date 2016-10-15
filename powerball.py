@@ -35,9 +35,7 @@ def getPowerBallNumbers(seed):
 
 #################################################
 
-# Print seed string
-print args[1]
-
+# Get Power Ball and print result
 if len(args) == 2:
 	seed = args[1]
 	o_gpbn = getPowerBallNumbers(seed)
