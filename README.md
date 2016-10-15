@@ -6,6 +6,6 @@ Uses the python 'random' module for pseudo-random number generation via the Mers
 
 Example...
 
-<code>python powerball.py '1234 N Broadway Ave'</code>
-<code>Powerball: 15-27-48-49-57 : 1</code>
+<code>python powerball.py '1234 N Broadway Ave'</code><br>
+<code>Powerball: 15-27-48-49-57 : 1</code><br>
 <code>Seed: 1234 N Broadway Ave</code>
