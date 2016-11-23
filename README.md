@@ -1,4 +1,4 @@
-# python-powerball_numbergenerator
+# python-powerball-generator
 
 Generate Power Ball lottery numbers using an input string as a seed.
 
